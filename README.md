@@ -48,8 +48,6 @@ I'm an engineering student who treats Computer Science as both a playground and 
 - I genuinely study CS for fun. (Seriously!)
 - I believe tech can build a beautiful society, and every project I tackle aims to nudge the world in that direction.
 - Debugging at 2AM is a spiritual experience—especially with coffee.
-- My Instagram is 90% animal-face reels & 10% new friends I make along the way.
-
 ---
 
 ## 🤝 Let’s Connect!
